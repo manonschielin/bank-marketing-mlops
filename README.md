@@ -1,3 +1,3 @@
 # bank-marketing-mlops
 ## Auteurs
-Thomas, Manon
+Manon SCHIELIN, Thomas QUERO
